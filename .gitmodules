@@ -1,0 +1,4 @@
+[submodule "BepInEx"]
+	path = BepInEx
+	url = https://github.com/BepInEx/BepInEx/
+	branch = v5-lts
